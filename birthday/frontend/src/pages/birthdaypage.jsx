@@ -2,10 +2,10 @@ import "./birthdaypage.css";
 import { useEffect, useRef, useState } from "react";
 import { Volume2, VolumeX } from "lucide-react";
 
-import Hero from "../components/Hero";
-import PhotoGallery from "../components/PhotoGallery";
-import VideoSection from "../components/VideoSection";
-import MessageForm from "../components/MessageForm";
+import Hero from "../components/hero";
+import PhotoGallery from "../components/photoGallery";
+import VideoSection from "../components/videoSection";
+import MessageForm from "../components/messageForm";
 
 
 function BirthdayPage() {
