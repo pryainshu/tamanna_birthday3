@@ -1,6 +1,6 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 
-import BirthdayPage from "./pages/BirthdayPage";
+import BirthdayPage from "./pages/birthdaypage";
 
 function App() {
   return (
